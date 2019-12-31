@@ -8,11 +8,11 @@ public class swapno2 {
 		System.out.println("enter two number");
 		int a=s.nextInt();
 		int b=s.nextInt();
-		System.out.println("number before swapping"+a+" "+b);
+		System.out.println("number before swapping "+a+" "+b);
 		a=a+b;
 		b=a-b;
 		a=a-b;
-		System.out.println("number after swapping"+a+" "+b);
+		System.out.println("number after swapping "+a+" "+b);
 	}
 
 }
